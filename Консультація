@@ -1,0 +1,63 @@
+index.html
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>Адвокат | Контакти</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #ffffff;
+    padding: 40px 15px;
+}
+.logo {
+    width: 140px;
+    margin-bottom: 20px;
+}
+h1 {
+    font-size: 26px;
+    margin-bottom: 5px;
+}
+p {
+    color: #777;
+    margin-bottom: 30px;
+}
+.btn {
+    display: block;
+    max-width: 320px;
+    margin: 18px auto;
+    padding: 20px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 14px;
+    border: 3px solid #2bbcff;
+    color: #2bbcff;
+}
+.btn img {
+    width: 36px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+</style>
+</head>
+<body>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" style="display:none">
+
+<h1>Адвокат</h1>
+<p>Запис на консультацію</p>
+
+<a class="btn" href="https://wa.me/380688008945">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
+WhatsApp
+</a>
+
+<a class="btn" href="https://t.me/USERNAME">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg">
+Telegram
+</a>
+
+</body>
+</html>
